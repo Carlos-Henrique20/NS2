@@ -1,0 +1,38 @@
+table{width:100%;
+height: 98vh}
+
+tr, td{
+    width: 80px;
+    height: 80px;
+}
+
+#Tarefa{
+    height: 5px;
+    padding: 5px;
+}
+.img{
+    width: 75px;
+}
+
+
+#Logo2{text-align: center;}
+#Carro{text-align: center;}
+#Barra{text-align: center;}
+#Entrar{text-align: center;}
+#image{text-align: center;}
+#Tarefa{text-align: center;}
+
+.image{
+    width: 100px;
+    height: 100px;
+}
+.primeiralinha{
+    background-color: #E3E3E3;
+}
+
+
+
+
+
+
+    
